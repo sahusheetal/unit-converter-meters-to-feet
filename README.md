@@ -1,6 +1,5 @@
-# unit-converter-meters-to-feet
-Meters to Feet Unit Converter tool created for storedropship.in tools section.
 # Unit Converter (Meters to Feet)
+Meters to Feet Unit Converter tool created for storedropship.in tools section.
 
 This is a simple HTML tool to convert values from meters to feet. Created for [storedropship.in](https://storedropship.in) tools section to help users with quick unit conversions.
 
